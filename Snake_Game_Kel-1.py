@@ -6,7 +6,6 @@ pygame.init()
 
 #membuat variable warna
 putih = (255, 255, 255)
-kuning = (255, 255, 102)
 hitam = (0, 0, 0)
 merah = (213, 50, 80)
 hijau = (0, 255, 0)
@@ -16,7 +15,7 @@ lebar = 1000
 tinggi = 600
 
 layar = pygame.display.set_mode((lebar, tinggi))
-pygame.display.set_caption('Game Ular by Kelompok 00') #memberi caption pada dsiplay / nama game
+pygame.display.set_caption('Game Ular by Kelompok 01') #memberi caption pada dsiplay / nama game
 
 clock = pygame.time.Clock()
 
